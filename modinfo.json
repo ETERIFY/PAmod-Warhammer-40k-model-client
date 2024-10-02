@@ -5,7 +5,7 @@
     [
 	  "client-mod",
         "titans",
-	"units",
+	"units"
     ],
     "context": "client",
     "date": "2024-09-30",
