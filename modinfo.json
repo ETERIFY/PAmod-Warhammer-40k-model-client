@@ -4,7 +4,8 @@
     "category":
     [
 	  "client-mod",
-        "titans"
+        "titans",
+	"units",
     ],
     "context": "client",
     "date": "2024-09-30",
