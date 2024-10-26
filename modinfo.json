@@ -8,13 +8,13 @@
 	"units"
     ],
     "context": "client",
-    "date": "2024-10-8",
+    "date": "2024-10-26",
     "description": "Client-mod,Warhammer 40k model replacement pack contain almost 20 model made by Eterify.It's a fan mod with no claims or goals of financial reward or profit.And with out claiming any intellectual property.",
-    "display_name": "Warhammer 40k model pack",
+    "display_name": "Warhammer40k model pack",
     "forum": "https://github.com/ETERIFY/PAmod-Warhammer-40k-model/discussions",
     "identifier": "com.pa.Eterify.Warhammer-40k-model-pack",
     "signature": " ",
-    "version": "1.1",
+    "version": "2",
     "icon": "https://i.ibb.co/nDJNY6y/cf9a599e12de69d177f10883860e9534-720.jpg",
     "titansOnly": true
 }
